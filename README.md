@@ -1,6 +1,4 @@
-# humane-graphs
-
-## Setup
+## Development How-to
 
 To get an interactive development environment run:
 
